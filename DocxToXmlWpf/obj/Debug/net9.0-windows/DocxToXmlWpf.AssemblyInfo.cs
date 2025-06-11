@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DocxToXmlWpf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fd3dede4f8e02f9607e011615ea9b923f0ac77b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4861b7203326974f714c77d4933939b1b336e774")]
 [assembly: System.Reflection.AssemblyProductAttribute("DocxToXmlWpf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DocxToXmlWpf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
