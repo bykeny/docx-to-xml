@@ -22,3 +22,11 @@ C:\Users\kenan\source\repos\DocxToXmlWpf\DocxToXmlWpf\obj\Debug\net9.0-windows\D
 C:\Users\kenan\source\repos\DocxToXmlWpf\DocxToXmlWpf\obj\Debug\net9.0-windows\DocxToXmlWpf.genruntimeconfig.cache
 C:\Users\kenan\source\repos\DocxToXmlWpf\DocxToXmlWpf\obj\Debug\net9.0-windows\ref\DocxToXmlWpf.dll
 C:\Users\kenan\source\repos\DocxToXmlWpf\DocxToXmlWpf\obj\Debug\net9.0-windows\DocxToXmlWpf.sourcelink.json
+C:\Users\kenan\source\repos\DocxToXmlWpf\DocxToXmlWpf\bin\Debug\net9.0-windows\Xceed.Document.NET.dll
+C:\Users\kenan\source\repos\DocxToXmlWpf\DocxToXmlWpf\bin\Debug\net9.0-windows\Xceed.Drawing.NET.dll
+C:\Users\kenan\source\repos\DocxToXmlWpf\DocxToXmlWpf\bin\Debug\net9.0-windows\Xceed.Words.NET.dll
+C:\Users\kenan\source\repos\DocxToXmlWpf\DocxToXmlWpf\bin\Debug\net9.0-windows\SkiaSharp.dll
+C:\Users\kenan\source\repos\DocxToXmlWpf\DocxToXmlWpf\bin\Debug\net9.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\kenan\source\repos\DocxToXmlWpf\DocxToXmlWpf\bin\Debug\net9.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\kenan\source\repos\DocxToXmlWpf\DocxToXmlWpf\bin\Debug\net9.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\kenan\source\repos\DocxToXmlWpf\DocxToXmlWpf\bin\Debug\net9.0-windows\runtimes\win-x86\native\libSkiaSharp.dll

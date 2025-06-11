@@ -51,6 +51,10 @@
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
           "dependencies": {
+            "DocX": {
+              "target": "Package",
+              "version": "[4.0.25105.5786, )"
+            },
             "DocumentFormat.OpenXml": {
               "target": "Package",
               "version": "[3.3.0, )"

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\kenan\\source\\repos\\DocxToXmlWpf\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{08C03E5B-18A4-428F-84AB-928E3EA00399}|DocxToXmlWpf\\DocxToXmlWpf.csproj|c:\\users\\kenan\\source\\repos\\docxtoxmlwpf\\docxtoxmlwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08C03E5B-18A4-428F-84AB-928E3EA00399}|DocxToXmlWpf\\DocxToXmlWpf.csproj|solutionrelative:docxtoxmlwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{08C03E5B-18A4-428F-84AB-928E3EA00399}|DocxToXmlWpf\\DocxToXmlWpf.csproj|c:\\users\\kenan\\source\\repos\\docxtoxmlwpf\\docxtoxmlwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08C03E5B-18A4-428F-84AB-928E3EA00399}|DocxToXmlWpf\\DocxToXmlWpf.csproj|solutionrelative:docxtoxmlwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C03E5B-18A4-428F-84AB-928E3EA00399}|DocxToXmlWpf\\DocxToXmlWpf.csproj|c:\\users\\kenan\\source\\repos\\docxtoxmlwpf\\docxtoxmlwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{08C03E5B-18A4-428F-84AB-928E3EA00399}|DocxToXmlWpf\\DocxToXmlWpf.csproj|solutionrelative:docxtoxmlwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{08C03E5B-18A4-428F-84AB-928E3EA00399}|DocxToXmlWpf\\DocxToXmlWpf.csproj|c:\\users\\kenan\\source\\repos\\docxtoxmlwpf\\docxtoxmlwpf\\models\\mappingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C03E5B-18A4-428F-84AB-928E3EA00399}|DocxToXmlWpf\\DocxToXmlWpf.csproj|solutionrelative:docxtoxmlwpf\\models\\mappingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +30,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "MappingRule.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\source\\repos\\DocxToXmlWpf\\DocxToXmlWpf\\Models\\MappingRule.cs",
+              "RelativeDocumentMoniker": "DocxToXmlWpf\\Models\\MappingRule.cs",
+              "ToolTip": "C:\\Users\\kenan\\source\\repos\\DocxToXmlWpf\\DocxToXmlWpf\\Models\\MappingRule.cs",
+              "RelativeToolTip": "DocxToXmlWpf\\Models\\MappingRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:56:59.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\kenan\\source\\repos\\DocxToXmlWpf\\DocxToXmlWpf\\MainWindow.xaml",
               "RelativeDocumentMoniker": "DocxToXmlWpf\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\kenan\\source\\repos\\DocxToXmlWpf\\DocxToXmlWpf\\MainWindow.xaml",
               "RelativeToolTip": "DocxToXmlWpf\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-08T17:27:50.844Z"
+              "WhenOpened": "2025-06-08T17:27:50.844Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\source\\repos\\DocxToXmlWpf\\DocxToXmlWpf\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "DocxToXmlWpf\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\kenan\\source\\repos\\DocxToXmlWpf\\DocxToXmlWpf\\MainWindow.xaml.cs",
               "RelativeToolTip": "DocxToXmlWpf\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvxIAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T17:27:48.043Z",
               "EditorCaption": ""

@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "DPlHhfAkCdY=",
+  "dgSpecHash": "+nw3kTnorrA=",
   "success": true,
   "projectFilePath": "C:\\Users\\kenan\\source\\repos\\DocxToXmlWpf\\DocxToXmlWpf\\DocxToXmlWpf.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenan\\.nuget\\packages\\documentformat.openxml\\3.3.0\\documentformat.openxml.3.3.0.nupkg.sha512",
     "C:\\Users\\kenan\\.nuget\\packages\\documentformat.openxml.framework\\3.3.0\\documentformat.openxml.framework.3.3.0.nupkg.sha512",
+    "C:\\Users\\kenan\\.nuget\\packages\\docx\\4.0.25105.5786\\docx.4.0.25105.5786.nupkg.sha512",
+    "C:\\Users\\kenan\\.nuget\\packages\\skiasharp\\2.88.8\\skiasharp.2.88.8.nupkg.sha512",
+    "C:\\Users\\kenan\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.8\\skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
+    "C:\\Users\\kenan\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.8\\skiasharp.nativeassets.win32.2.88.8.nupkg.sha512",
     "C:\\Users\\kenan\\.nuget\\packages\\system.io.packaging\\8.0.1\\system.io.packaging.8.0.1.nupkg.sha512"
   ],
   "logs": []
